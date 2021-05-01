@@ -1,4 +1,6 @@
-# Beyond full-stack engineering
+# 👆🏻 Going Beyond Full-Stack Engineering
+
+Hi there! I'm Joseph and I help technical people like yourself with your "soft skills" so that your existing hard skills can really shine.
 
 {% page-ref page="book-a-session.md" %}
 
