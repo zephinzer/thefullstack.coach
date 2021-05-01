@@ -1,2 +1,2 @@
-# Other Resources
+# 📚 Other Resources
 

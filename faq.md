@@ -1,4 +1,4 @@
-# FAQ
+# 🤷‍♂️ FAQ
 
 Sometimes in life, we get stuck. When we get stuck, it can be useful to have a conversation partner to look at our issues with a fresh pair of eyes. A different way of seeing things may reveal new things to us, enabling us to take a different set of actions, leading to results we were aiming for but were not previously achieving.
 
@@ -103,39 +103,5 @@ The first session will be a deep-dive into your objectives and subsequent sessio
 
 ## 💰 **What is the coaching package/pricing like?**
 
-To be clear, I'm not a certified coach, but I have completed the Newfield Ontological Coaching programme and I'm working towards an Associate Certified Coach \(ACC\) certification by the International Coaching Federation \(ICF\). The offer for a series of coaching conversations is as follows:
-
-* For first-timers: **6 x 1-hour long sessions at SGD 10/session** \(These fees are needed for credentialing requirements and will help me by enabling me to engage with a mentor coach as well to improve my own coaching. The going-rate for uncertified but professional coaches is upwards of SGD 50/hr so this is quite a steal! :D a small fee also improves the commitment level for both of us\)
-* For subsequent sets of sessions after the first, you are free to price these sessions according to the value that you feel it brings to you\(:
-* You will receive a recording of our conversation for post-meeting reflections
-* You will receive access to my collection of self-development readings/tools
-* Mode of coaching is flexible with Zoom as the default mode. I also do Telegram/WhatsApp/in-person as requestable by you. For in-person meetings, I am able to do CBD area as well as the Bishan/Toa Payoh/Serangoon vicinity.
-* Payment mode is via PayNow or bank transfer
-
-## **👷‍♂️ Wait, who's this Joseph anyway?**
-
-It feels weird to talk about myself as a 3rd party but here goes.
-
-Joseph is a human who is deeply passionate in technology creation through software as well as in facilitating change through enabling people to see things from different perspectives.
-
-He first crossed paths with coaching as an umbrella methodology to facilitate growth in people in 2018 during a certain 4-day workshop by The Thought Collective. He has since reinforced his learnings through more of such workshops/programmes and through growing his product team, MyCareersFuture, at GovTech from a seed team to a full-fledged product team and is currently with a fintech startup driving change from a technology platforms team.
-
-He has recently brought this interest to a higher level and completed the Newfield Ontological Coaching programme and is currently going for certification with the International Coaching Federation \(ICF\) and is thus offering near-free coaching to gain the practice needed to be certified competent although he assures you he is more than competent at the ACC level.
-
-You might be able to get a sensing of who I am through [my Medium posts](https://joeir.medium.com/) and [my LinkedIn profile](https://www.linkedin.com/in/joeir).
-
-## ✅ **Alright I'm in! How do I sign up?**
-
-You may drop me a notification via [this Google Form](https://forms.gle/8sWfNsBDkKht7jFR6) or contact me directly via Telegram at [@zephinzer](https://t.me/zephinzer). You may also drop me an SMS via my phone number: \(formatted to avoid scraping by bots\):
-
-```text
-           __  _____         ___     __  ____   _____      ______  ___   _____   ___  
-    _     / / | ____|       / _ \   / / |___ \ | ____|    |____  |/ _ \ | ____| / _ \ 
-  _| |_  / /_ | |__  ______| (_) | / /_   __) || |__  ______  / /| (_) || |__  | | | |
- |_   _|| '_ \|___ \|______|\__, || '_ \ |__ < |___ \|______|/ /  > _ < |___ \ | | | |
-   |_|  | (_) |___) |         / / | (_) |___) | ___) |      / /  | (_) | ___) || |_| |
-         \___/|____/         /_/   \___/|____/ |____/      /_/    \___/ |____/  \___/
-```
-
-
+To be clear, I'm not a certified coach, but I have completed the Newfield Ontological Coaching programme and I'm working towards an Associate Certified Coach \(ACC\) certification by the International Coaching Federation \(ICF\). 
 
