@@ -6,8 +6,6 @@ description: >-
 
 # 👆🏻 Going Beyond Full-Stack Engineering
 
-
-
 ![](.gitbook/assets/public-001.jpg)
 
 Being an engineer myself, I've seen how improved soft skills can lead to engineering success and I would like to help other engineers like yourself level up through a stack that not many might be familiar with - the human stack!
