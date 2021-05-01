@@ -6,11 +6,11 @@ description: >-
 
 # 👆🏻 Going Beyond Full-Stack Engineering
 
-![](.gitbook/assets/public-001.jpg)
+![A picture of me incase you were curious &#x270C;&#x1F3FC;](.gitbook/assets/public-001.jpg)
 
-Being an engineer myself, I've seen how improved soft skills can lead to engineering success and I would like to help other engineers like yourself level up through a stack that not many might be familiar with - the human stack!
+Being an engineer myself, I've seen how improved soft skills can lead to engineering success and I would like to help other technical people like yourself level up in a stack that you might not be too familiar with - the human stack!
 
-I do this through a series of coaching conversations that incorporates ontological coaching with my experience working with/in technical people in product teams.
+I do this through a series of coaching conversations that incorporates ontological coaching with my experience working in product teams.
 
 To learn more about available packages/book a session:
 
