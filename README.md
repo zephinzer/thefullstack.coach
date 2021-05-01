@@ -1,8 +1,14 @@
+---
+description: >-
+  Hi there! I'm Joseph and I help technical people like yourself version bump
+  your soft skills so that your technical skills can shine even brighter.
+---
+
 # 👆🏻 Going Beyond Full-Stack Engineering
 
-![](.gitbook/assets/public-001.jpg)
 
-Hi there! I'm Joseph and I help technical people like yourself version bump your soft skills so that your technical skills can shine even brighter.
+
+![](.gitbook/assets/public-001.jpg)
 
 Being an engineer myself, I've seen how improved soft skills can lead to engineering success and I would like to help other engineers like yourself level up through a stack that not many might be familiar with - the human stack!
 
