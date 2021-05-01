@@ -1,4 +1,6 @@
-# 👆🏻 Beyond Full-Stack
+# 👆🏻 Going Beyond Full-Stack Engineering
+
+![](.gitbook/assets/public-001.jpg)
 
 Hi there! I'm Joseph and I help technical people like yourself version bump your soft skills so that your technical skills can shine even brighter.
 
