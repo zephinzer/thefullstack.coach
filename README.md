@@ -1,4 +1,4 @@
-# 👆🏻 Going Beyond Full-Stack
+# 👆🏻 Beyond Full-Stack
 
 Hi there! I'm Joseph and I help technical people like yourself version bump your soft skills so that your technical skills can shine even brighter.
 
