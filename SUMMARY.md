@@ -2,7 +2,7 @@
 
 * [👆🏻 Going Beyond Full-Stack](README.md)
 * [✅ Book a Session](book-a-session.md)
-* [🤷‍♂️ Frequently-Asked-Questions](faq.md)
+* [🤷‍♂️ FAQs on Coaching](faq.md)
 * [👷‍♂️ About Joseph](about-me.md)
 * [📚 Other Resources](other-resources.md)
 
