@@ -1,3 +1,7 @@
+---
+description: Hello hello
+---
+
 # 👷‍♂️ About Joseph
 
 Hi there, I'm Joseph and I'm someone who is deeply passionate in technology creation through software as well as in facilitating change through enabling people to see things from different perspectives.

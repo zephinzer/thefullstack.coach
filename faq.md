@@ -1,4 +1,8 @@
-# 🤷‍♂️ FAQ
+---
+description: What the hell is coaching anyway?
+---
+
+# 🤷‍♂️ Frequently-Asked-Questions
 
 Sometimes in life, we get stuck. When we get stuck, it can be useful to have a conversation partner to look at our issues with a fresh pair of eyes. A different way of seeing things may reveal new things to us, enabling us to take a different set of actions, leading to results we were aiming for but were not previously achieving.
 
