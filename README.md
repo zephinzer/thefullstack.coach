@@ -6,9 +6,15 @@ Being an engineer myself, I've seen how improved soft skills can lead to enginee
 
 I do this through a series of coaching conversations that incorporates ontological coaching with my experience working with/in technical people in product teams.
 
+To learn more about available packages/book a session:
+
 {% page-ref page="book-a-session.md" %}
 
+For an in-depth discussion of what coaching as a discipline is:
+
 {% page-ref page="faq.md" %}
+
+For more on who I am:
 
 {% page-ref page="about-me.md" %}
 
