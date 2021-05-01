@@ -5,7 +5,7 @@ description: Ready to begin our coaching partnership?
 # ✅ Book a Session
 
 {% hint style="info" %}
-Book a session from [this link on Calendly](https://calendly.com/fullstackcoaching/30min), or contact me directly via Telegram at [@zephinzer](https://t.me/zephinzer). 
+Book an introductory call with me from [this link on Calendly](https://calendly.com/fullstackcoaching/30min), or contact me directly via Telegram at [@zephinzer](https://t.me/zephinzer). 
 {% endhint %}
 
 Engaging me as your coach includes:
@@ -82,11 +82,11 @@ Putting these positively, the above would be:
 
 ## One-Off Coaching Conversation
 
-**This package is a one-off coaching conversation that's available if you already know me personally/have booked sessions with me before**. I charge a flat rate for such conversations at SGD $50 for each session. Bookings for this package must be done through [this link on Calendly](https://calendly.com/fullstackcoaching/60min) instead of the main link.
+**This package is a one-off coaching conversation that's available if you already know me personally/have booked sessions with me before**. I charge a flat rate for such conversations at SGD $50 for each session. Bookings for this package must be done through [this link](https://calendly.com/fullstackcoaching/60min) instead of the main link.
 
 ## Ready?
 
 {% hint style="info" %}
-Book a session from [this link on Calendly](https://calendly.com/fullstackcoaching/30min), or contact me directly via Telegram at [@zephinzer](https://t.me/zephinzer). 
+Book an introductory call with me from [this link on Calendly](https://calendly.com/fullstackcoaching/30min), or contact me directly via Telegram at [@zephinzer](https://t.me/zephinzer).
 {% endhint %}
 
