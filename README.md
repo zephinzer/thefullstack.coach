@@ -8,15 +8,15 @@ description: >-
 
 ![A picture of me incase you were curious &#x270C;&#x1F3FC;](.gitbook/assets/public-001.jpg)
 
-Being an engineer myself, I've seen how improved soft skills can lead to engineering success and I would like to help other technical people like yourself level up in a stack that you might not be too familiar with - the human stack!
+Being an engineer who's been coached myself, I've experienced how improving soft skills can lead to engineering success and I would like to help other technical people like yourself level up in a stack that you might not be too familiar with - the human stack!
 
 I do this through a series of coaching conversations that incorporates ontological coaching with my experience working in product teams.
 
-To learn more about available packages/book a session:
+To book a session/learn more about available packages:
 
 {% page-ref page="book-a-session.md" %}
 
-For an in-depth discussion of what coaching as a discipline is:
+For an in-depth FAQ of what coaching as a discipline technically is:
 
 {% page-ref page="faq.md" %}
 
