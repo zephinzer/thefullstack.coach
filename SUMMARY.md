@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introductions](README.md)
-* [About Me](about-me.md)
-* [FAQ](faq.md)
+* [Beyond full-stack engineering](README.md)
 * [Book a Session](book-a-session.md)
+* [FAQ](faq.md)
+* [About Me](about-me.md)
 
